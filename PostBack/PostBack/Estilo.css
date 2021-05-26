@@ -1,0 +1,23 @@
+﻿
+.Titulo {
+    color: midnightblue;
+    font-family: Arial;
+    font-size: 20pt;
+    font-weight: bolder;
+}
+
+.TextoConsulta {
+    color: midnightblue;
+    font-family: Arial;
+    font-size: 17pt;
+}
+
+.MargenColumna {
+    margin-right: 500px;
+}
+
+.Cajas {
+    Width: 250px;
+    Height: 30px;
+    Font-Size: Larger;
+}
